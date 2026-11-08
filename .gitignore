@@ -9,3 +9,5 @@ eula.txt
 *.json
 playit
 playit.toml
+plugins/bStats/
+plugins/spark/
