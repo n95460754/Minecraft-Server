@@ -1,0 +1,9 @@
+paper.jar
+cache/
+libraries/
+versions/
+logs/
+world*/
+crash-reports/
+eula.txt
+*.json
