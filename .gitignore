@@ -11,3 +11,5 @@ playit
 playit.toml
 plugins/bStats/
 plugins/spark/
+console.in
+server.out
