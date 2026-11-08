@@ -15,3 +15,17 @@ RAM=4G ./start.sh     # more RAM
 ```
 
 `start.sh` downloads `paper.jar` automatically if it is missing.
+
+## Play with friends (playit.gg)
+
+In a second terminal, while the server is running:
+
+```bash
+./playit.sh
+```
+
+1. On first run it prints a **claim link**. Open it and log in at playit.gg.
+2. Add a tunnel of type **Minecraft Java**, local port `25565`.
+3. playit gives you an address like `something.joinmc.link`. Send it to your friends.
+
+Windows: download the installer from https://playit.gg/download instead.

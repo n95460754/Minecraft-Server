@@ -7,3 +7,5 @@ world*/
 crash-reports/
 eula.txt
 *.json
+playit
+playit.toml
