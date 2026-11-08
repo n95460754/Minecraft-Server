@@ -1,0 +1,19 @@
+# Downloaded by start.sh
+server.jar
+*.part
+.paper-version
+plugins/*.jar
+plugins/.paper-remapped/
+libraries/
+versions/
+cache/
+
+# Runtime data
+logs/
+crash-reports/
+world/
+world_nether/
+world_the_end/
+eula.txt
+usercache.json
+.paper/
